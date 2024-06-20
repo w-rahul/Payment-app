@@ -38,9 +38,3 @@ The frontend of the application is developed using React.js. It consists of mult
 - **Routing:** `react-router-dom` for declarative routing
 - **HTTP Client:** `axios` for making API requests
 - **Styling:** `Tailwind CSS` for utility-first CSS framework
-
-## Getting Started
-
-To get a local copy of this project up and running, follow these steps:
-
-1. **Clone the repository:**
